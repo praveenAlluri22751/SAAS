@@ -23,13 +23,13 @@ a {
   text-decoration: none;
 }
 
-/* -------------- Navbar style ------------ */
+
 .header {
   height: 100vh;
   background-color: var(--headercolor);
 }
 
-/* ------ Navbar ------- */
+/* navigation */
 nav {
   padding: var(--defaultPadding);
   padding-top: 2.5rem;
@@ -67,6 +67,11 @@ nav {
   font-weight: 500;
   cursor: pointer;
 }
+
+.list-item-link:hover {
+  background:linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
 .nav-list > li:nth-child(1) > a {
   display: flex;
   justify-content: center;
@@ -93,8 +98,8 @@ nav {
   background-color: var(--sky);
   text-transform: uppercase;
 }
-/* ------------------------ */
-/* --------- Home ------------- */
+
+/* HOME */
 
 #home {
   padding: var(--defaultPadding);
@@ -119,11 +124,11 @@ nav {
 .home-img > img {
   height: 550px;
 }
-/* ------------------------------------------- */
+
 .body {
   background-color: #ffffff;
 }
-/* -------- Services ---------- */
+/* Services */
 
 #service {
   padding: var(--defaultPadding);
@@ -178,8 +183,9 @@ nav {
 .fa-share {
   margin: 0 10px 0 -3rem;
 }
-/* ------------------------------- */
-/* -------- Footer ---------- */
+
+/* Footer */
+
 #footer {
   padding: var(--defaultPadding);
   padding-top: 3rem;
@@ -257,3 +263,5 @@ nav {
   font-size: 18px;
   text-align: center;
 }
+
+
