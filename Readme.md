@@ -1,7 +1,7 @@
 # Project Design
 <p> 
 Hi :wave: Coders!
-<br> This is a basic non -responsive website template design using HTML & CSS technologies.
+<br> This is a responsive website template design using HTML & CSS technologies.
 </p>
 
 
