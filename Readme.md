@@ -35,7 +35,7 @@ Hi :wave: Coders!
 
 ![tech](https://img.shields.io/badge/About%20project-23D90007?style=for-the-badge&logoColor=white)
 <p>
-This is a business model website for cryptocurrency.
+This is a business model website for service providers.
 <br> This website design gave me a chance to have real-world CSS(cards,buttons,hover effects and flex box experience.
 </p>
 
